@@ -1,2 +1,3 @@
-# my-demo
-Exploring Github Features
+# My Demo Website
+
+Learning github for a better future
