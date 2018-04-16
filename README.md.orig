@@ -2,6 +2,8 @@
 
 Learning github for a better future
 
+<<<<<<< HEAD
 Updating readme on master on github before rebase
-
+=======
 Now, I update the same file locally. 
+>>>>>>> Editing readme on local before rebase
